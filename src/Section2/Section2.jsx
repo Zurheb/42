@@ -16,7 +16,7 @@ export const Section2 = () => {
             o'rganing
           </p>
         </div>
-        <div className="grid grid-cols-2 lg:grid-cols-4 p-24 gap-10 ">
+        <div className="grid  lg:grid-cols-4 p-24 gap-10 ">
           <div className="rounded-lg border bg-card text-card-foreground shadow-sm hover:bg-secondary cursor-default transition-all ease-in-out duration-200">
             <div className="flex flex-col space-y-1.5 p-6 text-center items-center gap-2">
               <img
